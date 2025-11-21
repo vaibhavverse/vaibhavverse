@@ -50,3 +50,4 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavverse&" alt="vaibhavverse" /></p>
 
+<img src="https://raw.githubusercontent.com/vaibhavverse/vaibhavverse/output/snake.svg" alt="Snake animation" />
