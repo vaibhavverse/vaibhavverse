@@ -35,21 +35,7 @@
 - 🤖 ML Integration
 - 🌐 Open Source
 
-
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaibhavverse&show_icons=true&theme=dracula&hide_border=true&count_private=true&cache_seconds=86400" alt="vaibhavverse's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=vaibhavverse&theme=dracula&hide_border=true&cache_seconds=86400" alt="vaibhavverse's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vaibhavverse&theme=dracula&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Vaibhav kumar's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhavverse&theme=dracula&radius=10" alt="vaibhavverse's Activity Graph" />
-</p>
-
-
-## 🛠️ Languages & Tools
+  ## 🛠️ Languages & Tools
 
 > ## Programming Languages
 <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="48" height="48" style="margin: 4px;" /></p>
@@ -73,6 +59,20 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavverse&layout=compact&theme=dracula&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
 </p>
 
+
+
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vaibhavverse&show_icons=true&theme=dracula&hide_border=true&count_private=true&cache_seconds=86400" alt="vaibhavverse's GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=vaibhavverse&theme=dracula&hide_border=true&cache_seconds=86400" alt="vaibhavverse's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vaibhavverse&theme=dracula&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Vaibhav kumar's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhavverse&theme=dracula&radius=10" alt="vaibhavverse's Activity Graph" />
+</p>
+
 ## 🔗 Connect with Me
 <p align="left"> <a href="https://www.linkedin.com/in/vaibhavverse/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Vaibhav kumar's LinkedIn"/></a> <a href="mailto:ak0466967@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Vaibhav kumar's Email"/></a></p>
 
@@ -82,7 +82,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
 </picture>
 
-<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+<!-- <p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p> -->
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
