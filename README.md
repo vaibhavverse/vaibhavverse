@@ -1,113 +1,319 @@
-## Hi there 👋
+GitHub README Generator - Interactive Profile Builder
+Create Professional Developer Profiles
+Use our advanced README generator to create stunning GitHub profiles. Features real-time preview, GitHub statistics integration, skills showcase, social media links, custom themes, and professional templates.
 
-<!--
-**vaibhavverse/vaibhavverse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Generator Features:
+Real-time Markdown Preview
+GitHub Statistics Integration
+Programming Languages Selector
+Social Media Links Manager
+Custom Theme Options
+Professional Templates
+One-click Copy & Download
+Mobile-friendly Editor
+Edit
+Basic Information
 
-Here are some ideas to get you started:
+Header Style
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">Hi 👋, I'm Vaibhav Kumar</h1>
-<h3 align="center">A passionate Fullstack Developer from India</h3>
+Modern Header (Animated)
+✨ Modern header with animated waving banner and gradient background
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavverse&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavverse" /> </p>
+Full Name *
+Vaibhav kumar
+Greeting GIF
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaibhavverse" alt="vaibhavverse" /></a> </p>
+Developer
+Preview
+GitHub Username *
+vaibhavverse
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+Include Activity Graph
+GitHub Stats Components
 
-- 🔭 I’m currently working on **Local Hub**
+GitHub Stats
 
-- 🌱 I’m currently learning **Openshift**
+Streak Stats
 
-- 👯 I’m looking to collaborate on **Fullstack projects**
+Trophies
 
-- 🤝 I’m looking for help with **Devops**
+Top Languages
+GitHub Stats Theme
 
-- 💬 Ask me about **Devops**
+Dracula (Purple/Pink)
+Location
+Chandigarh
+Support
 
-- 📫 How to reach me **vaibhav.devvk@gmail.com**
+Enable to add a "Buy Me a Coffee" button to your README footer using the official orange button design.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vaibhavverse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhavverse" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vaibhav_0071" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vaibhav_0071" height="30" width="40" /></a>
+Buy Me a Coffee Username
+Software Engineer
+If left empty, we'll use chamidili as the default username.
+
+Contribution Games
+Pong
+Snake
+Pac-Man
+Professional Information
+
+Professional Title *
+Full Stack Developer | Software Engineer
+About Me
+
+About Me (One item per line)
+💻 Full Stack Developer | MERN Stack | DevOps Learner  
+🌱 Currently learning Docker, Kubernetes, CI/CD, and Cloud  
+🚀 Building scalable projects in React, Node.js, and Machine Learning  
+🤖 Creator of HealthSense – AI-based early disease prediction system  
+🚗 Developer of Trackify – MERN-based University Transport Management System  
+🛠️ Strong in DSA, JavaScript, C++, Python, and SQL  
+🔍 Interests: AI Integration, Wearable Tech, System Design, DevOps  
+🏢 Infosys Intern (2 Months) | 5th Semester CSE  
+📦 Experience with MongoDB, Express, React, Node.js  
+📫 Reach me at: ak0466967@gmail.com  
+Focus Areas
+
+Focus Areas (One item per line)
+💻 MERN Development  
+🐳 DevOps & Cloud  
+⚛️ React + TypeScript  
+🛠️ Node.js Backend  
+🗄️ MongoDB & SQL  
+🏗️ System Design  
+🤖 ML Integration  
+🌐 Open Source  
+Languages and Tools
+
+Select All
+28 selected
+Programming Languages
+JavaScript
+JavaScript
+TypeScript
+TypeScript
+Python
+Python
+Java
+Java
+C++
+C++
+C#
+C#
+PHP
+PHP
+Go
+Go
+Rust
+Rust
+Swift
+Swift
+Frontend
+React
+React
+Vue.js
+Vue.js
+Angular
+Angular
+Next.js
+Next.js
+HTML5
+HTML5
+CSS3
+CSS3
+Tailwind CSS
+Tailwind CSS
+Bootstrap
+Bootstrap
+Backend
+Node.js
+Node.js
+Express.js
+Express.js
+Django
+Django
+Flask
+Flask
+Spring Boot
+Spring Boot
+Laravel
+Laravel
+Database
+MySQL
+MySQL
+PostgreSQL
+PostgreSQL
+MongoDB
+MongoDB
+Redis
+Redis
+SQLite
+SQLite
+Dev Ops & Cloud
+Docker
+Docker
+Kubernetes
+Kubernetes
+AWS
+AWS
+Google Cloud
+Google Cloud
+Azure
+Azure
+Jenkins
+Jenkins
+Tools
+Git
+Git
+VS Code
+VS Code
+Figma
+Figma
+Postman
+Postman
+Webpack
+Webpack
+Vite
+Vite
+Social Links (Optional)
+
+LinkedIn URL
+https://www.linkedin.com/in/vaibhavverse/
+Twitter (X) URL
+https://x.com/...
+Personal Website
+https://your-website.com
+YouTube URL
+https://youtube.com/c/...
+Email
+ak0466967@gmail.com
+WhatsApp (select country + number)
+Country
+India
+Phone (e.g. 712345678)
+Preview:
+
+Select a country and enter a phone number to build a wa.me link.
+
+
+Include Buy Me a Coffee button at the bottom
+Social Icon Style
+
+Badge (default)
+Choose how social links are rendered in your README.
+
+Quote (Optional)
+Personal Quote
+Turning ideas into scalable, real-world systems.
+Separate lines with semicolon (;)
+
+Images
+
+Banner Image
+Choose from gallery
+Custom URL
+
+Awesome Workspace
+Full-width banner image at the top of your README
+
+Bottom Line Image
+Choose from gallery
+Custom URL
+
+Cat & Mouse
+Decorative image at the bottom of your README
+
+README.md
+Copy
+Download
+Preview
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Vaibhav%20kumar&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer&descSize=18&descAlignY=55&textBg=false"/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Turning%20ideas%20into%20scalable%2C%20real-world%20systems." alt="Typing introduction" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavverse&show_icons=true&locale=en&layout=compact" alt="vaibhavverse" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhavverse&show_icons=true&locale=en" alt="vaibhavverse" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavverse&" alt="vaibhavverse" /></p>
-
-<img src="https://raw.githubusercontent.com/vaibhavverse/vaibhavverse/output/snake.svg" alt="Snake animation" />
-
-###
-<img src="https://raw.githubusercontent.com/vaibhavverse/vaibhavverse/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-</div>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
-###
-
-<div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=vaibhavverse">
+    <img src="https://komarev.com/ghpvc/?username=vaibhavverse&label=Profile%20views&color=00FFFF&style=flat-square" alt="vaibhavverse's profile views" />
   </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
-  </a>
-</div>
+</p>
 
-###
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Banner" width="100%" />
 
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
+## 📌 About Me
+- 💻 Full Stack Developer | MERN Stack | DevOps Learner
+- 🌱 Currently learning Docker, Kubernetes, CI/CD, and Cloud
+- 🚀 Building scalable projects in React, Node.js, and Machine Learning
+- 🤖 Creator of HealthSense – AI-based early disease prediction system
+- 🚗 Developer of Trackify – MERN-based University Transport Management System
+- 🛠️ Strong in DSA, JavaScript, C++, Python, and SQL
+- 🔍 Interests: AI Integration, Wearable Tech, System Design, DevOps
+- 🏢 Infosys Intern (2 Months) | 5th Semester CSE
+- 📦 Experience with MongoDB, Express, React, Node.js
+- 📫 Reach me at: ak0466967@gmail.com
 
-###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=vaibhavverse.vaibhavverse&"  />
-</div>
+## 🧠 My Focus Areas
+- 💻 MERN Development
+- 🐳 DevOps & Cloud
+- ⚛️ React + TypeScript
+- 🛠️ Node.js Backend
+- 🗄️ MongoDB & SQL
+- 🏗️ System Design
+- 🤖 ML Integration
+- 🌐 Open Source
 
-###
+
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vaibhavverse&show_icons=true&theme=dracula&hide_border=true&count_private=true&cache_seconds=86400" alt="vaibhavverse's GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=vaibhavverse&theme=dracula&hide_border=true&cache_seconds=86400" alt="vaibhavverse's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vaibhavverse&theme=dracula&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Vaibhav kumar's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhavverse&theme=dracula&radius=10" alt="vaibhavverse's Activity Graph" />
+</p>
+
+
+## 🛠️ Languages & Tools
+
+> ## Programming Languages
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Frontend
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="48" height="48" style="margin: 4px;" /> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Backend
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Database
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## DevOps & Cloud
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Tools
+<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="48" height="48" style="margin: 4px;" /></p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavverse&layout=compact&theme=dracula&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
+</p>
+
+## 🔗 Connect with Me
+<p align="left"> <a href="https://www.linkedin.com/in/vaibhavverse/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Vaibhav kumar's LinkedIn"/></a> <a href="mailto:ak0466967@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Vaibhav kumar's Email"/></a></p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vaibhavverse/vaibhavverse/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vaibhavverse/vaibhavverse/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vaibhavverse/vaibhavverse/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
+</div>
 
